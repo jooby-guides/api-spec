@@ -26,7 +26,7 @@ public class App extends Jooby {
               "<li>Pets API with <a href=\"/raml\">raml</a></li>\n" +
               "<li>Pets API with <a href=\"/swagger\">swagger</a></li>\n" +
               "</ul>\n" +
-              "<p>More at <a href=\"http://jooby.org/doc/api-tools\">" +
+              "<p>More at <a href=\"http://jooby.org/doc/spec\">" +
               "http://jooby.org/doc/spec</a>\n" +
               "</body>\n" +
               "</html>")

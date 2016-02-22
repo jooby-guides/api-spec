@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dapplication.port=$PORT -Draml.baseUri=https://jooby-spec.herokuapp.com -jar target/jooby-spec.jar
+web: java $JAVA_OPTS -Dapplication.port=$PORT -jar target/jooby-spec.jar
