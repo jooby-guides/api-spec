@@ -27,7 +27,7 @@ public class App extends Jooby {
               "<li>Pets API with <a href=\"/swagger\">swagger</a></li>\n" +
               "</ul>\n" +
               "<p>More at <a href=\"http://jooby.org/doc/api-tools\">" +
-              "http://jooby.org/doc/api-tools</a>\n" +
+              "http://jooby.org/doc/spec</a>\n" +
               "</body>\n" +
               "</html>")
       .type("html");
@@ -119,6 +119,7 @@ public class App extends Jooby {
         .install(this);
 
     new SwaggerUI()
+        .tag(route -> "pets")
         .install(this);
   }
 
