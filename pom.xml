@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.jooby</groupId>
     <artifactId>jooby-project</artifactId>
-    <version>1.1.1</version>
+    <version>1.1.2</version>
   </parent>
 
   <artifactId>route-spec</artifactId>
@@ -14,7 +14,7 @@
   <version>1.0</version>
 
   <properties>
-    <jooby.version>1.1.1</jooby.version>
+    <jooby.version>1.1.2</jooby.version>
 
     <!-- Startup class -->
     <application.class>org.jooby.spec.App</application.class>
