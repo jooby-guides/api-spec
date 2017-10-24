@@ -1,4 +1,4 @@
-package org.jooby.spec;
+package starter.apitool;
 
 public class Pet {
 
