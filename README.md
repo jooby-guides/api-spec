@@ -3,6 +3,14 @@
 
 Starter project for [apitool](http://jooby.org/doc/apitool/) module.
 
+## screenshots
+
+### swagger
+![Swagger Api Tool](http://jooby.org/resources/images/apitool-swagger.png)
+
+### raml
+![RAML Api Tool](http://jooby.org/resources/images/apitool-raml.png)
+
 ## quick preview
 
 This project contains a simple application that:
