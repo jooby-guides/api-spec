@@ -6,14 +6,14 @@
   <parent>
     <groupId>org.jooby</groupId>
     <artifactId>jooby-project</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.1</version>
   </parent>
 
   <artifactId>apitool-starter</artifactId>
   <version>1.0</version>
 
   <properties>
-    <jooby.version>1.4.0</jooby.version>
+    <jooby.version>1.4.1</jooby.version>
 
     <!-- Startup class -->
     <application.class>starter.apitool.App</application.class>
